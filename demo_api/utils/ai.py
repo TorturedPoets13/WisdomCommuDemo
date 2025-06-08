@@ -7,7 +7,7 @@ import requests
 def register_image(user_id, user_info, file_object, group_id="test"):
     # 1. 获取 access token
     # client_id 为官网获取的AK， client_secret 为官网获取的SK
-    host = 'https://aip.baidubce.com/oauth/2.0/token?grant_type=client_credentials&client_id=5WiPHY8QlXyopEHB3S8Subak&client_secret=lkkhzAcqd0TUtFFaLh1I2DTyIpdpaEm2'
+    host = 'https://aip.baidubce.com/oauth/2.0/token?grant_type=client_credentials&client_id=你的ak&client_secret=你的sk'
     response = requests.get(host)
     access_token = response.json().get("access_token")
 
@@ -40,7 +40,7 @@ def register_image(user_id, user_info, file_object, group_id="test"):
 def search(file_object):
     # 1. 获取 access token
     # client_id 为官网获取的AK， client_secret 为官网获取的SK
-    host = 'https://aip.baidubce.com/oauth/2.0/token?grant_type=client_credentials&client_id=5WiPHY8QlXyopEHB3S8Subak&client_secret=lkkhzAcqd0TUtFFaLh1I2DTyIpdpaEm2'
+    host = 'https://aip.baidubce.com/oauth/2.0/token?grant_type=client_credentials&client_id=你的ak&client_secret=你的sk'
     response = requests.get(host)
     access_token = response.json().get("access_token")
 
@@ -74,7 +74,7 @@ def delete(user_id, face_token, group_id="test"):
 
     # 1. 获取 access token
     # client_id 为官网获取的AK， client_secret 为官网获取的SK
-    host = 'https://aip.baidubce.com/oauth/2.0/token?grant_type=client_credentials&client_id=5WiPHY8QlXyopEHB3S8Subak&client_secret=lkkhzAcqd0TUtFFaLh1I2DTyIpdpaEm2'
+    host = 'https://aip.baidubce.com/oauth/2.0/token?grant_type=client_credentials&client_id=你的ak&client_secret=你的sk'
     response = requests.get(host)
     access_token = response.json().get("access_token")
 
@@ -100,8 +100,8 @@ def delete(user_id, face_token, group_id="test"):
 def speed(file_object):
     from aip import AipSpeech   # 语音识别技术依赖包pip install baidu-aip官网sdk文档：https://ai.baidu.com/ai-doc/SPEECH/0lbxfnc9b
     APP_ID = '21212118'
-    API_KEY = '5RYoUwOCHcexcWfa2iRC0ftq'
-    SECRET_KEY = 'GQQkpl5sOZPdA90kmLPIO4oRenwmhBFG'
+    API_KEY = '你的ak'
+    SECRET_KEY = '你的sk'
     client = AipSpeech(APP_ID, API_KEY, SECRET_KEY)
     data = file_object.read()
     # 识别本地文件
