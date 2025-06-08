@@ -1,0 +1,17 @@
+<!--pages/myActivity/myActivity.wxml-->
+<view class="container">
+  <view class="item" wx:for="{{activityList}}" wx:key="index">
+    <view class="left">
+      <view class="title" style="color:#337ab7;"><label class="fa fa-flag-o" ></label> {{item.title}}</view>
+      <view class="text">{{item.text}}</view>
+      <view class="date"><label class="fa fa-user-plus"></label> 可兑换积分: {{item.score}}</view>
+      <view class="date"><label class="fa fa-calendar"></label>  活动日期: {{item.date}}</view>
+    </view>
+    <view class="right">
+      <button type="primary" disabled="{{item.exchange}}" bindtap="bindExchange" data-aid="{{item.id}}" data-index="{{index}}">申请</button>
+    </view>
+  </view>
+  <view style="text-align: center;">
+    <text bindtap="doLoadMore">加载更多</text>
+  </view>
+</view>

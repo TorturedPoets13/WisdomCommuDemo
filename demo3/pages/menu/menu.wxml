@@ -1,0 +1,35 @@
+
+
+<view class="container">
+
+  <navigator class="menu" url="/pages/index/index" >
+    <label class="fa fa-superpowers" style="color:#32CD32"></label>
+    <view>信息采集</view>
+  </navigator>
+
+  <navigator class="menu" url="/pages/face/face">
+    <label class="fa fa-meh-o" style="color:#FFA500"></label>
+    <view>人脸检测</view>
+  </navigator>
+
+  <navigator class="menu" url="/pages/activity/activity">
+    <label class="fa fa-bell-o" style="color:#87CEFA"></label>
+    <view>社区活动</view>
+  </navigator>
+
+  <navigator class="menu" url="/pages/voice/voice">
+    <label class="fa fa-microphone" style="color:#7D9EC0"></label>
+    <view>语音识别</view>
+  </navigator>
+
+  <navigator class="menu" >
+    <label class="fa fa fa-heartbeat" style="color:#EE0000"></label>
+    <view>心率检测</view>
+  </navigator>
+
+  <navigator class="menu" url="/pages/goods/goods">
+    <label class="fa fa-credit-card" style="color:#778899"></label>
+    <view>积分兑换商城</view>
+  </navigator>
+
+</view>

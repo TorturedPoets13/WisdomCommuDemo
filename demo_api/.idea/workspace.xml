@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="097c6165-3f4c-4c3b-8bca-06c8cebf779d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/demo_api.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/migrations/0002_activity.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/migrations/0003_joinrecord.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/migrations/0004_goods_alter_activity_date.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/serializers/bank.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/views/bank.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo_api/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo_api/asgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo_api/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo_api/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo_api/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/bank/2025/06/06/88azpMIZpLm4e8cac64f4b221d979d7540ae402c6f8f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/bank/2025/06/06/L8FIQuheTbIL6dc1a3a051bef285c2a31993c7ca9097.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/bank/2025/06/06/x2ttV7tzgev9b41c594df05b032045ec03eeb5cc3e6c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/demo/v1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/demo/v2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/ai.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/storage.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2NXf1UQzakbvxkQzEMET4IgODrf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Django Server.demo_api.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenDjangoStructureViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/pyProj/WisdomCommuDemo/demo_api&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/api" />
+      <recent name="$PROJECT_DIR$/api/views" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="demo_api" type="Python.DjangoServer" factoryName="Django server">
+      <module name="demo_api" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="demo_api.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-6a121458b545-JavaScript-PY-251.25410.159" />
+        <option value="bundled-python-sdk-e0ed3721d81e-36ea0e71a18c-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.25410.159" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="097c6165-3f4c-4c3b-8bca-06c8cebf779d" name="Changes" comment="" />
+      <created>1679815132386</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679815132386</updated>
+      <workItem from="1679815136026" duration="8553000" />
+      <workItem from="1680391462563" duration="16493000" />
+      <workItem from="1749027453710" duration="489000" />
+      <workItem from="1749027951378" duration="749000" />
+      <workItem from="1749028713003" duration="21638000" />
+      <workItem from="1749360831255" duration="7671000" />
+      <workItem from="1749369000377" duration="354000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
