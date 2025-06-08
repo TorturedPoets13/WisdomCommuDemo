@@ -20,9 +20,9 @@
 
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="./assets/facedetect.gif" alt="Gif 1" style="width: 30%;" />
-  <img src="./assets/signActivity.gif" alt="Gif 2" style="width: 30%;" />
-  <img src="./assets/signlogOut.gif" alt="Gif 3" style="width: 30%;" />
+  <img src="./assets/facedetect.gif" alt="Gif 1" style="width: 45%;" />
+  <img src="./assets/signActivity.gif" alt="Gif 2" style="width: 45%;" />
+  <img src="./assets/signlogOut.gif" alt="Gif 3" style="width: 45%;" />
 </div>
 
 
@@ -65,7 +65,7 @@
 {'corpus_no': '6847771638436561158', 'result': ['今天天气很好呢，一起去散步吧'], 'sn': '15921476781594371078', 'err_msg': 'success.', 'err_no': 0}
 ```
 
-![voice](.\assets\voice.png)
+![voice](./assets/voice.png)
 
 ### 关于活动
 
